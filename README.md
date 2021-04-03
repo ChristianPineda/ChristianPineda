@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristianPineda
-- 👀 I’m interested in apps development
-- 🌱 I’m currently learning Kotlin & Flutter
-- 💞️ I’m looking to collaborate on mobile appsd
+- 👀 I’m interested in apps development and cloud solutions
+- 🌱 I’m currently learning Microsoft Azure, GCP, Kotlin & Flutter
+- 💞️ I’m looking to collaborate on mobile apps and digital education
 - 📫 How to reach me: contacto@oslomx.tech
 
 <!---
