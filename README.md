@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristianPineda or @31415ntv in all social networks
+- 👋 Hi, I’m @ChristianPineda or @spinedatv in all social networks
 - 👀 I’m interested in app development and cloud solutions
 - 🌱 I’m currently learning Microsoft Azure, GCP, C#, Go and Dart to be a fullstack cloud solution architect
 - 💞️ I’m in love with mobile apps, IoT and EdTech
